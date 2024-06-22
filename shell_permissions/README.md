@@ -9,3 +9,7 @@ This script prints the effective username of the current user.
 **Usage:**
 ```bash
 ./1-who_am_i
+## 4-empty
+
+This script creates an empty file named `hello`.
+
