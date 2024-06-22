@@ -1,11 +1,2 @@
 #!/bin/bash
-
-username=$(id -un)
-
-echo "$username"
-
-hostname=$(hostname)
-
-current_dir=$(pwd)
-
-echo "$username@$hostname:$current_dir\$ "
+whoami
